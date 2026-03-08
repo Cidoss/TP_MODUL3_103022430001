@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace TP_MODUL3_103022430001
 {
-    public partial class Form1 : Form
+    public partial class KalkulatorForm : Form
     {
-        public Form1()
+        public KalkulatorForm()
         {
             InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
