@@ -3,15 +3,19 @@
   "WorkspaceRootPath": "D:\\rekapan materi semester\\Sem 4\\tugas\\Konstruksi\\TP\\TP_MODUL3_103022430001\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63693C69-6949-44D3-A2D6-AC33F8C47343}|TP_MODUL3_103022430001\\TP_MODUL3_103022430001.csproj|d:\\rekapan materi semester\\sem 4\\tugas\\konstruksi\\tp\\tp_modul3_103022430001\\tp_modul3_103022430001\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{63693C69-6949-44D3-A2D6-AC33F8C47343}|TP_MODUL3_103022430001\\TP_MODUL3_103022430001.csproj|solutionrelative:tp_modul3_103022430001\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{63693C69-6949-44D3-A2D6-AC33F8C47343}|TP_MODUL3_103022430001\\TP_MODUL3_103022430001.csproj|D:\\rekapan materi semester\\Sem 4\\tugas\\Konstruksi\\TP\\TP_MODUL3_103022430001\\tp_modul3_103022430001\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63693C69-6949-44D3-A2D6-AC33F8C47343}|TP_MODUL3_103022430001\\TP_MODUL3_103022430001.csproj|solutionrelative:tp_modul3_103022430001\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63693C69-6949-44D3-A2D6-AC33F8C47343}|TP_MODUL3_103022430001\\TP_MODUL3_103022430001.csproj|d:\\rekapan materi semester\\sem 4\\tugas\\konstruksi\\tp\\tp_modul3_103022430001\\tp_modul3_103022430001\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63693C69-6949-44D3-A2D6-AC33F8C47343}|TP_MODUL3_103022430001\\TP_MODUL3_103022430001.csproj|d:\\rekapan materi semester\\sem 4\\tugas\\konstruksi\\tp\\tp_modul3_103022430001\\tp_modul3_103022430001\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63693C69-6949-44D3-A2D6-AC33F8C47343}|TP_MODUL3_103022430001\\TP_MODUL3_103022430001.csproj|solutionrelative:tp_modul3_103022430001\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63693C69-6949-44D3-A2D6-AC33F8C47343}|TP_MODUL3_103022430001\\TP_MODUL3_103022430001.csproj|d:\\rekapan materi semester\\sem 4\\tugas\\konstruksi\\tp\\tp_modul3_103022430001\\tp_modul3_103022430001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63693C69-6949-44D3-A2D6-AC33F8C47343}|TP_MODUL3_103022430001\\TP_MODUL3_103022430001.csproj|solutionrelative:tp_modul3_103022430001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63693C69-6949-44D3-A2D6-AC33F8C47343}|TP_MODUL3_103022430001\\TP_MODUL3_103022430001.csproj|D:\\rekapan materi semester\\Sem 4\\tugas\\Konstruksi\\TP\\TP_MODUL3_103022430001\\tp_modul3_103022430001\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63693C69-6949-44D3-A2D6-AC33F8C47343}|TP_MODUL3_103022430001\\TP_MODUL3_103022430001.csproj|solutionrelative:tp_modul3_103022430001\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -30,41 +34,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\rekapan materi semester\\Sem 4\\tugas\\Konstruksi\\TP\\TP_MODUL3_103022430001\\TP_MODUL3_103022430001\\Program.cs",
+              "RelativeDocumentMoniker": "TP_MODUL3_103022430001\\Program.cs",
+              "ToolTip": "D:\\rekapan materi semester\\Sem 4\\tugas\\Konstruksi\\TP\\TP_MODUL3_103022430001\\TP_MODUL3_103022430001\\Program.cs",
+              "RelativeToolTip": "TP_MODUL3_103022430001\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:09:38.92Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "D:\\rekapan materi semester\\Sem 4\\tugas\\Konstruksi\\TP\\TP_MODUL3_103022430001\\TP_MODUL3_103022430001\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "TP_MODUL3_103022430001\\Form1.Designer.cs",
               "ToolTip": "D:\\rekapan materi semester\\Sem 4\\tugas\\Konstruksi\\TP\\TP_MODUL3_103022430001\\TP_MODUL3_103022430001\\Form1.Designer.cs",
               "RelativeToolTip": "TP_MODUL3_103022430001\\Form1.Designer.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAIAwwMEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-08T09:14:53.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\rekapan materi semester\\Sem 4\\tugas\\Konstruksi\\TP\\TP_MODUL3_103022430001\\TP_MODUL3_103022430001\\Form1.cs",
               "RelativeDocumentMoniker": "TP_MODUL3_103022430001\\Form1.cs",
               "ToolTip": "D:\\rekapan materi semester\\Sem 4\\tugas\\Konstruksi\\TP\\TP_MODUL3_103022430001\\TP_MODUL3_103022430001\\Form1.cs",
               "RelativeToolTip": "TP_MODUL3_103022430001\\Form1.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-08T08:42:15.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "settings.json",
               "DocumentMoniker": "D:\\rekapan materi semester\\Sem 4\\tugas\\Konstruksi\\TP\\TP_MODUL3_103022430001\\.vs\\TP_MODUL3_103022430001.slnx\\v18\\ResourceExplorer\\settings.json",
               "RelativeDocumentMoniker": ".vs\\TP_MODUL3_103022430001.slnx\\v18\\ResourceExplorer\\settings.json",
@@ -76,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form1.resx",
               "DocumentMoniker": "D:\\rekapan materi semester\\Sem 4\\tugas\\Konstruksi\\TP\\TP_MODUL3_103022430001\\TP_MODUL3_103022430001\\Form1.resx",
               "RelativeDocumentMoniker": "TP_MODUL3_103022430001\\Form1.resx",
@@ -88,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\rekapan materi semester\\Sem 4\\tugas\\Konstruksi\\TP\\TP_MODUL3_103022430001\\TP_MODUL3_103022430001\\Form1.cs",
               "RelativeDocumentMoniker": "TP_MODUL3_103022430001\\Form1.cs",
